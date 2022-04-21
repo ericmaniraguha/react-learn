@@ -3,6 +3,9 @@
 1. npm init
 2. npm install
 3. npm install react-router-dom
+
+# Run the App
+
 4. npm start
 
 # Database with firebase
